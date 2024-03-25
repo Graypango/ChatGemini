@@ -99,6 +99,7 @@ export const InputArea = forwardRef(
                 !busy &&
                 !shiftKey &&
                 key === "Enter" &&
+                e.ctrlKey &&
                 !!value.trim().length &&
                 !isMobileDevice()
             ) {
