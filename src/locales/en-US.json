@@ -71,7 +71,7 @@
                 "upload_success": "Click the icon again to cancel uploading"
             },
             "setPlaceholderByWidth": {
-                "placeholder_for_pc": "Press Enter to send",
+                "placeholder_for_pc": "Press CTRL + Enter to send",
                 "placeholder_for_mobile": "Your prompts here..."
             }
         },
